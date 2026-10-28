@@ -1,0 +1,11 @@
+# secrets - never commit
+self_client.json
+*.env
+.env*
+secrets*.txt
+# generated
+build/
+__pycache__/
+*.pyc
+predictions.csv
+node_modules/
